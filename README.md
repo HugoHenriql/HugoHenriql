@@ -1,9 +1,9 @@
 ### Ola ,eu sou Hugo Henrique 👋
 
-- 🔭 Eu gosto muito de Cybersecurity e criar sites 
-- 💻 Estudando Analise de Sistemas-Senai/Hacker Security-HackerSec
-- 💬 Me add no Linkdlin: Hugo Henrique
-- 📫 Contate-me no Email: hugohenriquelarah@gmail.com
+- 🔭 I really like Cybersecurity and creating websites
+- 💻 Graduated in Systems Analysis-Senai/Hacker Security-HackerSec
+- 💬 Add on Linkdlin: Hugo Henrique   www.linkedin.com/in/hugohenriql
+- 📫 Contact me at Email: hugohenriquelarah@gmail.com
 
 <div align="center">
   <a href="https://github.com/HugoHenriql">
